@@ -32,7 +32,7 @@ Usage
 
 bash
 
-streamlit run app.py
+python -m streamlit run emit.py
 
 
 2.  Open the application in your web browser.
